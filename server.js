@@ -1,6 +1,6 @@
 const express = require('express');
 const routes = require('./routes');
-const routes = require('./routes');
+// const routes = require('./routes');
 require('./config/connection');
 
 var consoleTable = require('console-table');
